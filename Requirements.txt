@@ -1,0 +1,22 @@
+Part 1 - Determine the causes of order returns 
+-  Build a scatterplot showing the correlation between total sales and total returns. 
+- Build a bar chart showing the return rate by product category.
+- Find the return rate by customer filtering by customers with more than 1 order. 
+- Build a map showing the return rate by some geographic measure to identify any possible geographic concentration of returned orders. 
+- Find the return rate by some measure of time and how it affects returned orders.
+- Build two different kinds of composite charts showing the return rate for a mix of multiple factors. 
+
+Part 2 - Build a dashboard for monitoring returns
+- Create low-fidelity mockups of the dashboards. 
+- Create a template for the dashboards.
+- Add worksheets to the dashboard template and include markers, images, and titles. 
+
+Part 3 - Present the analysis and dashboards
+- Construct a story arc for your presentation using captions for each Story Point.
+- The Story should include: 
+	- A summary of the returns analysis
+	- An overview of each component of your Dashboard
+	- A demonstration of how the Dashboard should be used
+	- A conclusion with proposed next steps
+	- Create additional worksheets to support your Story Arc. 
+
