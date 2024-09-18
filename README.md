@@ -11,8 +11,9 @@ This was an independent project part of the TripleTen Business Intelligence Curr
 
 ## Files  
 - ReadMe.md
+- <a href='https://github.com/LidiaRJ/ecommerce-returns-/blob/main/Dashboard%20mockups.pdf' target=_blank><u>Dashboard Mockups</u></a>
 - <a href= 'https://github.com/LidiaRJ/ecommerce-returns-/blob/main/Ecommerce%20Returns%20-%20Story.pdf' target=_blank><u> Presentation - Tableau Story</u></a>
-- Requirements.txt 
+- <a href='https://github.com/LidiaRJ/ecommerce-returns-/blob/main/Requirements.txt' target=_blank><u>Requirements.txt</u></a>
 
 ## Table of Content
 | Tab Title| Description | 
